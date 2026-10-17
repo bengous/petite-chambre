@@ -1,0 +1,10 @@
+[
+    { "id": "mains",   "label": "Mains lavées",        "full": "Se laver les mains avant de prendre bébé",       "side": "ok", "selected": true },
+    { "id": "dos",     "label": "Dodo sur le dos",     "full": "Coucher bébé sur le dos pour dormir",            "side": "ok", "selected": true },
+    { "id": "temp",    "label": "Chambre à 19 °C",     "full": "Une chambre entre 18 et 20 °C",                  "side": "ok", "selected": true },
+    { "id": "chant",   "label": "Chansons",            "full": "Lui parler et lui chanter des chansons",         "side": "ok", "selected": true },
+    { "id": "bisou",   "label": "Bisou sur la bouche", "full": "Un bisou sur la bouche à la naissance",          "side": "no", "selected": true },
+    { "id": "parfum",  "label": "Parfum en visite",    "full": "Mettre du parfum pour venir voir bébé",          "side": "no", "selected": true },
+    { "id": "miel",    "label": "Miel avant 1 an",     "full": "Un peu de miel sur la tétine pour calmer bébé",  "side": "no", "selected": true },
+    { "id": "coussin", "label": "Coussins au lit",     "full": "Un tour de lit et des coussins dans le berceau", "side": "no", "selected": true }
+]

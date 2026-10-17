@@ -1,0 +1,10 @@
+{
+    "bpm": 153,
+    "bpmTolerance": 12,
+    "heartbeatAudio": "audio/coeur.wav",
+    "revelation": "VW5lIGZpbGxl",
+    "playersMin": 2,
+    "playersMax": 8,
+    "backdrops": ["img/backdrop-01.jpg", "img/backdrop-02.jpg", "img/backdrop-03.jpg", "img/backdrop-04.jpg", "img/backdrop-05.jpg", "img/backdrop-06.jpg"],
+    "depth": "img/depth.png"
+}

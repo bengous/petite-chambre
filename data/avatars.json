@@ -1,0 +1,10 @@
+[
+    { "id": "renard",     "label": "Renard",     "image": "img/avatars/renard.svg" },
+    { "id": "ours",       "label": "Ours",       "image": "img/avatars/ours.svg" },
+    { "id": "lapin",      "label": "Lapin",      "image": "img/avatars/lapin.svg" },
+    { "id": "hibou",      "label": "Hibou",      "image": "img/avatars/hibou.svg" },
+    { "id": "herisson",   "label": "Hérisson",   "image": "img/avatars/herisson.svg" },
+    { "id": "grenouille", "label": "Grenouille", "image": "img/avatars/grenouille.svg" },
+    { "id": "cerf",       "label": "Cerf",       "image": "img/avatars/cerf.svg" },
+    { "id": "ecureuil",   "label": "Écureuil",   "image": "img/avatars/ecureuil.svg" }
+]

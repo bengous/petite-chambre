@@ -1,0 +1,6 @@
+[
+    { "id": "jouet",      "zone": "tapis",   "label": "Un jouet mâchouillé",                "culprit": "cica", "layer": "img/layers/betise-jouet.png",      "clue": "img/betises/jouet-indices.png" },
+    { "id": "cadre",      "zone": "etagere", "label": "Un cadre de travers",                "culprit": "leia", "layer": "img/layers/betise-cadre.png",      "clue": "img/betises/cadre-indices.png" },
+    { "id": "chaussette", "zone": "commode", "label": "Une chaussette tirée du tiroir",     "culprit": "leia", "layer": "img/layers/betise-chaussette.png", "clue": "img/betises/chaussette-indices.png", "motif": "rayures" },
+    { "id": "couverture", "zone": "lit",     "label": "La couverture tirée jusqu'au panier", "culprit": "cica", "layer": "img/layers/betise-couverture.png", "clue": "img/betises/couverture-indices.png" }
+]

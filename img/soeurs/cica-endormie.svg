@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Stand-in drawing until the hosts' cut-out photo of Cica (SPEC.md §4.3, §9). -->
+  <defs>
+    <path id="body-outline" d="M62 384C40 380 36 336 64 314C96 290 168 286 226 294C262 300 286 316 296 340L300 384Z"/>
+    <path id="head-outline" d="M228 118C224 86 244 64 270 64C290 64 300 76 306 88C322 92 342 96 352 104C360 110 358 126 348 132C334 142 312 146 292 146C266 148 238 140 228 118Z"/>
+    <clipPath id="body"><use href="#body-outline"/></clipPath>
+    <clipPath id="head"><use href="#head-outline"/></clipPath>
+  </defs>
+  <g stroke="#3b2a1f" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="205" cy="386" rx="168" ry="10" fill="#3b2a1f" opacity=".16" stroke="none"/>
+    <path d="M300 226h16l-16 18h16M326 182h22l-22 24h22M356 128h28l-28 32h28" fill="none" stroke-width="5" opacity=".55"/>
+    <rect x="236" y="356" width="124" height="20" rx="10" fill="#ece2d5" stroke-width="5"/>
+    <g clip-path="url(#body)">
+      <rect width="400" height="400" fill="#fbf6ee"/>
+      <ellipse cx="96" cy="352" rx="60" ry="46" fill="#c0803f"/>
+      <ellipse cx="282" cy="334" rx="36" ry="32" fill="#c0803f"/>
+      <path d="M30 336C70 276 180 266 262 290L258 318C190 304 110 312 56 356Z" fill="#2c221d" stroke="none"/>
+      <path d="M150 384C148 358 130 338 104 332" fill="none" stroke-width="3" opacity=".45"/>
+    </g>
+    <use href="#body-outline" fill="none" stroke-width="5"/>
+    <path d="M58 354C30 362 30 392 70 392H124" fill="none" stroke-width="24"/>
+    <path d="M58 354C30 362 30 392 70 392H124" fill="none" stroke="#c0803f" stroke-width="14"/>
+    <path d="M100 392H124" fill="none" stroke="#fbf6ee" stroke-width="14"/>
+    <rect x="228" y="366" width="140" height="20" rx="10" fill="#fbf6ee" stroke-width="5"/>
+    <path d="M348 370V382M358 370V382" fill="none" stroke-width="3"/>
+    <g transform="rotate(6 318 334) translate(26 226)">
+      <g clip-path="url(#head)">
+        <rect width="400" height="400" fill="#c0803f"/>
+        <path d="M300 84C318 90 340 96 352 104L362 152H286C292 128 298 108 300 84Z" fill="#fbf6ee" stroke="none"/>
+        <path d="M302 90C294 78 286 70 274 65" fill="none" stroke="#fbf6ee" stroke-width="10"/>
+      </g>
+      <use href="#head-outline" fill="none" stroke-width="5"/>
+      <ellipse cx="352" cy="110" rx="10" ry="9" fill="#231a16" stroke="none"/>
+      <ellipse cx="354" cy="107" rx="3" ry="2" fill="#fbf6ee" opacity=".55" stroke="none"/>
+      <path d="M348 128C336 134 318 136 304 132" fill="none" stroke-width="3.5"/>
+      <path d="M288 98Q296 104 305 98" fill="none" stroke-width="4"/>
+      <path d="M246 80C234 92 230 118 234 140C236 154 252 160 262 150C270 136 272 108 262 84C258 76 252 76 246 80Z" fill="#8a5226" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- Stand-in drawing until the hosts' cut-out photo of Leia (SPEC.md §4.3, §9). -->
+  <defs>
+    <path id="body-outline" d="M200 200C156 200 134 244 130 292C126 342 142 380 200 382C258 380 274 342 270 292C266 244 244 200 200 200Z"/>
+    <clipPath id="body"><use href="#body-outline"/></clipPath>
+  </defs>
+  <g stroke="#1d1714" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="200" cy="386" rx="110" ry="10" fill="#3b2a1f" opacity=".16" stroke="none"/>
+    <path d="M262 362C312 364 330 318 314 282C304 260 310 240 324 232" fill="none" stroke-width="30"/>
+    <path d="M262 362C312 364 330 318 314 282C304 260 310 240 324 232" fill="none" stroke="#34302c" stroke-width="20"/>
+    <path d="M262 362C312 364 330 318 314 282C304 260 310 240 324 232" fill="none" stroke="#1b1714" stroke-width="20" stroke-dasharray="7 15" stroke-linecap="butt"/>
+    <use href="#body-outline" fill="#34302c" stroke-width="5"/>
+    <g clip-path="url(#body)" fill="none" stroke="#1b1714" stroke-width="7">
+      <path d="M134 262C146 262 156 270 160 282M130 292C144 292 156 300 158 312M132 324C146 324 156 332 158 342"/>
+      <path d="M266 262C254 262 244 270 240 282M270 292C256 292 244 300 242 312M268 324C254 324 244 332 242 342"/>
+      <path d="M170 232C186 242 214 242 230 232M166 250C184 262 216 262 234 250"/>
+    </g>
+    <path d="M136 376C136 366 146 362 156 364C166 366 170 372 168 378C166 384 140 384 136 376Z" fill="#fbf6ee" stroke-width="4"/>
+    <path d="M264 376C264 366 254 362 244 364C234 366 230 372 232 378C234 384 260 384 264 376Z" fill="#fbf6ee" stroke-width="4"/>
+    <path d="M202 286V364Q202 381 217 381Q232 381 232 364V290" fill="#34302c" stroke-width="4"/>
+    <path d="M202 346Q217 340 232 346V364Q232 381 217 381Q202 381 202 364Z" fill="#fbf6ee" stroke-width="4"/>
+    <path d="M212 372V380M222 372V380" fill="none" stroke-width="2.5"/>
+    <path d="M184 266C158 254 128 240 104 230" fill="none" stroke-width="36"/>
+    <path d="M184 266C158 254 128 240 104 230" fill="none" stroke="#34302c" stroke-width="27"/>
+    <path d="M150 252C146 262 138 264 132 260M134 244C130 254 122 256 116 252" fill="none" stroke="#1b1714" stroke-width="6"/>
+    <path d="M118 236C108 220 86 214 76 226C68 236 74 252 88 254C100 256 114 250 118 236Z" fill="#fbf6ee" stroke-width="4"/>
+    <path d="M82 230L90 233M80 240L89 241M84 249L92 247" fill="none" stroke-width="2.5"/>
+    <path d="M56 214L44 206M52 232H38M58 250L46 258" fill="none" stroke="#3b2a1f" stroke-width="4" opacity=".55"/>
+    <g transform="rotate(-8 200 200)">
+      <path d="M150 150L152 92L190 124Z" fill="#34302c" stroke-width="5"/>
+      <path d="M250 150L248 92L210 124Z" fill="#34302c" stroke-width="5"/>
+      <path d="M158 140L159 106L182 126Z" fill="#5e4a40" stroke="none"/>
+      <path d="M242 140L241 106L218 126Z" fill="#5e4a40" stroke="none"/>
+      <path d="M200 112C240 112 266 134 268 166C270 190 256 212 236 220C222 226 210 228 200 228C190 228 178 226 164 220C144 212 130 190 132 166C134 134 160 112 200 112Z" fill="#34302c" stroke-width="5"/>
+      <path d="M178 138L186 126L194 136L200 124L206 136L214 126L222 138M140 174L158 178M142 188L158 188M260 174L242 178M258 188L242 188" fill="none" stroke="#1b1714" stroke-width="5"/>
+      <ellipse cx="180" cy="166" rx="12" ry="10.5" fill="#e9d28a" stroke-width="3"/>
+      <ellipse cx="220" cy="166" rx="12" ry="10.5" fill="#e9d28a" stroke-width="3"/>
+      <ellipse cx="175" cy="166" rx="4" ry="9" fill="#1b1714" stroke="none"/>
+      <ellipse cx="215" cy="166" rx="4" ry="9" fill="#1b1714" stroke="none"/>
+      <circle cx="179" cy="161" r="2.4" fill="#fbf6ee" stroke="none"/>
+      <circle cx="219" cy="161" r="2.4" fill="#fbf6ee" stroke="none"/>
+      <ellipse cx="200" cy="198" rx="22" ry="14" fill="#4a423d" stroke="none"/>
+      <path d="M193 188H207L200 196Z" fill="#1b1714" stroke-width="2"/>
+      <ellipse cx="200" cy="205" rx="7" ry="6" fill="#1b1714" stroke="none"/>
+      <path d="M178 198L128 190M178 202L126 204M180 206L132 218M222 198L272 190M222 202L274 204M220 206L268 218" fill="none" stroke="#e6ddd2" stroke-width="2.5" opacity=".9"/>
+    </g>
+  </g>
+</svg>

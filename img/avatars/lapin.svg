@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g stroke="#743f1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M70 80C54 52 52 14 70 8C88 2 96 40 90 80Z" fill="#f0e0ca"/>
+    <path d="M130 80C146 52 148 14 130 8C112 2 104 40 110 80Z" fill="#f0e0ca"/>
+    <path d="M74 70C64 50 64 24 72 20C80 18 84 44 82 70Z" fill="#d8bea6" stroke="none"/>
+    <path d="M126 70C136 50 136 24 128 20C120 18 116 44 118 70Z" fill="#d8bea6" stroke="none"/>
+    <ellipse cx="100" cy="124" rx="66" ry="56" fill="#f0e0ca"/>
+    <ellipse cx="66" cy="140" rx="16" ry="11" fill="#e0cab6" stroke="none"/>
+    <ellipse cx="134" cy="140" rx="16" ry="11" fill="#e0cab6" stroke="none"/>
+    <circle cx="76" cy="114" r="9" fill="#743f1a" stroke="none"/>
+    <circle cx="124" cy="114" r="9" fill="#743f1a" stroke="none"/>
+    <circle cx="79" cy="111" r="3" fill="#f0e0ca" stroke="none"/>
+    <circle cx="127" cy="111" r="3" fill="#f0e0ca" stroke="none"/>
+    <path d="M92 130H108L100 139Z" fill="#9d6d42" stroke-width="3"/>
+    <path d="M100 139V145M100 145C95 151 89 150 86 146M100 145C105 151 111 150 114 146" fill="none" stroke-width="4"/>
+    <path d="M93 150H107V160C107 162 105 163 100 163C95 163 93 162 93 160Z" fill="#f0e0ca" stroke-width="3"/>
+    <path d="M100 150V162" fill="none" stroke-width="2.5"/>
+  </g>
+</svg>

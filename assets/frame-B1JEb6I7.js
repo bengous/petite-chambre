@@ -1,0 +1,1 @@
+var e={width:1920,height:1080};function t(t){return{x:t.x/100*e.width,y:t.y/100*e.height}}function n(t){return{x:t.x,y:e.height-t.y}}function r(e,t){return Math.hypot(t.x-e.x,t.y-e.y)}export{t as i,r as n,n as r,e as t};

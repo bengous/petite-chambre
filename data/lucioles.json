@@ -1,0 +1,7 @@
+[
+    { "zone": "placard",        "x": 93.75, "y": 31.85, "depth": 2.04 },
+    { "zone": "velux",          "x": 85.94, "y": 13.89, "depth": 2.02 },
+    { "zone": "panier_doudous", "x": 42.81, "y": 71.48, "depth": 1.80 },
+    { "zone": "cadres",         "x": 17.60, "y": 26.85, "depth": 1.09 },
+    { "zone": "lit",            "x": 23.18, "y": 92.59, "depth": 1.20 }
+]

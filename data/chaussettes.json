@@ -1,0 +1,14 @@
+{
+    "orpheline": "rayures",
+    "dos": "img/chaussettes/dos.svg",
+    "motifs": [
+        { "id": "pois",     "label": "À pois",          "image": "img/chaussettes/pois.svg" },
+        { "id": "rayures",  "label": "Rayée",           "image": "img/chaussettes/rayures.svg" },
+        { "id": "etoiles",  "label": "Petites étoiles", "image": "img/chaussettes/etoiles.svg" },
+        { "id": "lunes",    "label": "Lunes",           "image": "img/chaussettes/lunes.svg" },
+        { "id": "nuages",   "label": "Nuages",          "image": "img/chaussettes/nuages.svg" },
+        { "id": "feuilles", "label": "Feuilles",        "image": "img/chaussettes/feuilles.svg" },
+        { "id": "carreaux", "label": "Carreaux",        "image": "img/chaussettes/carreaux.svg" }
+    ],
+    "disposition": "aleatoire"
+}
